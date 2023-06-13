@@ -1,0 +1,93 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#website-title {
+    font-size: 65px;
+    font-weight: bold;
+    color: lightseagreen;
+    text-align:center;
+    text-decoration: underline;
+}
+
+.front-bullets {
+    text-align: center;
+    list-style-position:inside;
+}
+
+.top-front-recipes,
+.middle-front-recipes,
+.last-front-recipes {
+    font-weight:bold;
+    font-size: 30px;
+}
+
+.top-front-recipes {
+    color: red;
+}
+
+.middle-front-recipes {
+    color: darkviolet;
+}
+
+.last-front-recipes {
+    color: rgba(131, 64, 64, 0.993);
+}
+
+#front-pic {
+    display: block;
+    margin-left:auto;
+    margin-right:auto;
+}
+
+.pizza-title {
+    text-align: center;
+    color: red;
+}
+
+.pbj-title {
+    color: darkviolet;
+    text-align: center;
+}
+
+.balls-title {
+    text-align: center;
+    color: rgba(131, 64, 64, 0.993);
+}
+
+.pics {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    border: 5px ridge black;
+}
+
+.pics.different {
+    width: 300px;
+}
+    
+
+.ingredients   {
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+.description.title {
+    text-align: center;
+    font-size: 26px;
+}
+
+.description.para {
+    text-align:center;
+}
+
+.steps {
+    text-decoration: underline;
+    font-size: 20px;
+}
+
+.tips {
+    border: 2px solid black;
+    padding: 15px;
+    text-align: center;
+}
